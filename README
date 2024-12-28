@@ -1,0 +1,5 @@
+*Running app*
+docker compose up
+
+*if springboot-app doesn't run*
+docker compose up
