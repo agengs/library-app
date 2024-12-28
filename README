@@ -1,5 +1,5 @@
 *Running app*
-docker compose up
+docker compose up -d
 
-*if springboot-app doesn't run*
-docker compose up
+*if springboot-app doesn't run (because the Database is not running yet)*
+docker compose up -d
